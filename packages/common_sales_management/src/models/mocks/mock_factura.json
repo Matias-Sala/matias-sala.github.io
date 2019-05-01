@@ -1,0 +1,20 @@
+[
+    {
+        "numero": 123654,
+        "descripcion": "Colocación cable red",
+        "monto": 256.6,
+        "fecha": "2019-04-23",
+        "documentoPath": "",
+        "estado": "Pendiente",
+        "clienteId": "156425"
+    },
+    {
+        "numero": 265498,
+        "descripcion": "Rectificación de cilindros",
+        "monto": 256.6,
+        "fecha": "2019-04-23",
+        "documentoPath": "",
+        "estado": "Pendiente",
+        "clienteId": "15648"
+    }
+]
